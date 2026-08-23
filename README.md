@@ -1,10 +1,6 @@
-Stream Deck Plugin:
-
-https://github.com/cmoizer1995/Windows-Apps/tree/Stream-deck-Plugins
+Stream Deck Plugin: https://github.com/cmoizer1995/Windows-Apps/tree/Stream-deck-Plugins
 
 Download: https://github.com/cmoizer1995/Windows-Apps/releases/tag/Streamdeck
 
 
-SimHub:
-
-https://github.com/cmoizer1995/Windows-Apps/tree/SimHub
+SimHub: https://github.com/cmoizer1995/Windows-Apps/tree/SimHub
