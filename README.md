@@ -7,6 +7,7 @@
 
 A Stream Deck plugin for controlling a vJoy\-based H\-shifter in Euro Truck Simulator 2\.
 
+Download https://github.com/cmoizer1995/Windows-Apps/releases/tag/Streamdeck
 ## Features
 
 - Uses vJoy Device 1\.
