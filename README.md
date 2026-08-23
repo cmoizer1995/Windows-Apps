@@ -7,6 +7,7 @@
 
 A 1920×1080 transparent SimHub dashboard designed as an OBS lower third for Euro Truck Simulator 2\.
 
+Download https://github.com/cmoizer1995/Windows-Apps/releases/tag/SimHub
 ## Current working behaviour
 
 The dashboard displays:
