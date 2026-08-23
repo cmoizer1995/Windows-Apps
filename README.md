@@ -2,7 +2,7 @@ Stream Deck
 
 Plugin: https://github.com/cmoizer1995/Windows-Apps/tree/Stream-deck-Plugins
 
-Download: https://github.com/cmoizer1995/Windows-Apps/releases/tag/Streamdeck
+Download: https://github.com/cmoizer1995/Windows-Apps/releases#release-Streamdeck
 
 
 
